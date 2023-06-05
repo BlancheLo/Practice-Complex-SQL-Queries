@@ -1,5 +1,5 @@
 # Practice-Complex-SQL-Queries
-I will write 9 SQL Queries to practice intermediate to complex SQL queries.  
+I wrote 9 SQL Queries to practice intermediate to complex SQL queries.  
 
 
 Query 1: Write a SQL Query to fetch all the duplicate records in a table.
